@@ -10,7 +10,7 @@
             src: url('../fonts/segoeuil.ttf');
         }
         .main-container {
-            height: 150%;
+            height: 100%;
             width: 100%;
             background-color: #1d539d;
             color: white;
@@ -22,8 +22,8 @@
         }
 
         .cloud-image {
-            width: 1199px;
-            height: 249px;
+            width: 1200px;
+            height: 250px;
             padding-bottom: 50px;
             margin: auto;
         }
