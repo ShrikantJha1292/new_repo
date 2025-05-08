@@ -22,16 +22,16 @@
         }
 
         .cloud-image {
-            width: 1200px;
-            height: 250px;
+            width: 1199px;
+            height: 249px;
             padding-bottom: 50px;
             margin: auto;
         }
 
         .success-text {
-            padding-bottom: 20px;
+            padding-bottom: 21px;
             font-size: 62px;
-            line-height: 73px;
+            line-height: 75px;
         }
 
         .description {
